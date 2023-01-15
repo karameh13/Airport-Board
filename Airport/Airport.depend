@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673812291 source:c:\users\mkara\desktop\projects\airport\airport\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
